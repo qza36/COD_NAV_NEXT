@@ -1,0 +1,3 @@
+[submodule "ROG-Map"]
+	path = cnn_perception/rog_map
+	url = https://github.com/qza36/ROG-Map-ROS2.git
